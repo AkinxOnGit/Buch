@@ -284,3 +284,4 @@ C:\Users\Admin\source\repos\Buch\Buch\bin\Debug\net6.0\runtimes\unix\lib\net6.0\
 C:\Users\Admin\source\repos\Buch\Buch\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\Admin\source\repos\Buch\Buch\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Admin\source\repos\Buch\Buch\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\source\repos\Buch\Buch\obj\Debug\net6.0\Buch.sourcelink.json

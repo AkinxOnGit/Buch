@@ -22,9 +22,13 @@ namespace Buch.Controllers
         // GET: Rechnung
         public async Task<IActionResult> Index()
         {
-            var applicationDbContext = _context.Rechnung.
-                Include(r => r.Kassenbuch);
-            return View(await applicationDbContext.ToListAsync());
+            var rechnung = _context.Rechnung
+                .Include(r => r.Kassenbuch)
+                .Include(rk => rk.RechnungKategories)
+                .Include(kat => kat.Kassenbuch);
+               
+
+            return View(await rechnung.ToListAsync());
         }
 
         // GET: Rechnung/Details/5
@@ -54,14 +58,26 @@ namespace Buch.Controllers
             new SelectListItem { Value = "Eingangsrechnung", Text = "Eingangsrechnung" },
             new SelectListItem { Value = "Ausgangsrechnung", Text = "Ausgangsrechnung" }
         };
+            ViewBag.Kategorie = new SelectList(_context.Kategorie, "Id", "Name");
+
             return View();
         }
 
         // POST: Rechnung/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Datum,Betrag,Art,KassenbuchId")] Rechnung rechnung)
+        public async Task<IActionResult> Create(Rechnung rechnung)
         {
+            rechnung.Kassenbuch = _context.Kassenbuch.FirstOrDefault(k => k.Id == rechnung.KassenbuchId);
+
+            foreach(int kId in rechnung.RechnungKategoriesId)
+            {
+                RechnungKategorie rechnungKategorie = new RechnungKategorie();
+                rechnungKategorie.KategorieId = kId;
+                rechnungKategorie.RechnungId = rechnung.Id;
+
+                rechnung.RechnungKategories.Add(rechnungKategorie);
+            }
 
                 _context.Add(rechnung);
                 await _context.SaveChangesAsync();
@@ -72,6 +88,8 @@ namespace Buch.Controllers
             new SelectListItem { Value = "Eingangsrechnung", Text = "Eingangsrechnung" },
             new SelectListItem { Value = "Ausgangsrechnung", Text = "Ausgangsrechnung" }
         };
+            ViewBag.Kategorie = new SelectList(_context.Kategorie, "Id", "Name");
+
             return RedirectToAction(nameof(Index));
         }
 
