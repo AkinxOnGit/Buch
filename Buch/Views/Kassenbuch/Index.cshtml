@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Buch.Models.Kassenbuch>
+
+@{
+    ViewData["Title"] = "Kassenbuch";
+}
+
+<h1>Kassenbuch</h1>
+
+<p>
+    <a class="btn" style="background-color:burlywood; color: white" asp-action="Create"> Kassenbuch erstellen</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Anfangsbestand €</th>
+            <th>Monat</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Anfangsbestand €</td>
+                <td>
+                    <a asp-action="Rechnungen" asp-route-id="@item.Id">@item.Monat</a>
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn" style="background-color:burlywood; color: white">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Buch.Models.Rechnung>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Rechnungsliste</h1>
+
+<p>
+    <a class="btn" style="background-color:burlywood; color: white" asp-action="Create">Rechnung erstellen</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Datum)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Betrag)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Art)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Kassenbuch)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Datum)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Betrag)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Art)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Kassenbuch.Monat)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id" class="btn" style="background-color:burlywood; color: white">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Buch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|c:\\users\\admin\\source\\repos\\buch\\buch\\views\\kategorie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\views\\kategorie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\views\\rechnung\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\views\\rechnung\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\views\\kategorie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\views\\kategorie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\controllers\\kategoriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\controllers\\kategoriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\models\\rechnung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\models\\rechnung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\controllers\\kassenbuchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\controllers\\kassenbuchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\models\\kategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\models\\kategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\views\\kassenbuch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\views\\kassenbuch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\controllers\\rechnungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\controllers\\rechnungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\views\\kassenbuch\\rechnungen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\views\\kassenbuch\\rechnungen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\views\\rechnung\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\views\\rechnung\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\views\\rechnung\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\views\\rechnung\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\views\\kassenbuch\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\views\\kassenbuch\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\views\\rechnung\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\views\\rechnung\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\models\\kassenbuch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\models\\kassenbuch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_Buch_8e1f0a69_69e6_4eb6_a82f_48b6eb14a23c/True/SqlTable/dbo.Rechnung.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_Buch_8e1f0a69_69e6_4eb6_a82f_48b6eb14a23c/True/SqlTable/dbo.Kassenbuch.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\views\\kassenbuch\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\views\\kassenbuch\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\views\\kassenbuch\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\views\\kassenbuch\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\models\\rechnungkategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\models\\rechnungkategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\buch\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:buch\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Data\\Migrations\\20240529061105_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:Buch\\Data\\Migrations\\20240529061105_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Data\\Migrations\\20240529081619_delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:Buch\\Data\\Migrations\\20240529081619_delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Data\\Migrations\\20240529083713_string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CE9F4-4E5E-427B-BEA7-0320A2F4295A}|Buch\\Buch.csproj|solutionrelative:Buch\\Data\\Migrations\\20240529083713_string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Kategorie\\Index.cshtml",
+              "RelativeDocumentMoniker": "Buch\\Views\\Kategorie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Kategorie\\Index.cshtml",
+              "RelativeToolTip": "Buch\\Views\\Kategorie\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T12:41:07.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Kategorie\\Create.cshtml",
+              "RelativeDocumentMoniker": "Buch\\Views\\Kategorie\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Kategorie\\Create.cshtml",
+              "RelativeToolTip": "Buch\\Views\\Kategorie\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T12:06:18.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KategorieController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Controllers\\KategorieController.cs",
+              "RelativeDocumentMoniker": "Buch\\Controllers\\KategorieController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Controllers\\KategorieController.cs",
+              "RelativeToolTip": "Buch\\Controllers\\KategorieController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:04:33.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Kassenbuch\\Create.cshtml",
+              "RelativeDocumentMoniker": "Buch\\Views\\Kassenbuch\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Kassenbuch\\Create.cshtml",
+              "RelativeToolTip": "Buch\\Views\\Kassenbuch\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T08:37:36.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Rechnung\\Index.cshtml",
+              "RelativeDocumentMoniker": "Buch\\Views\\Rechnung\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Rechnung\\Index.cshtml",
+              "RelativeToolTip": "Buch\\Views\\Rechnung\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC4AAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T10:13:07.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RechnungController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Controllers\\RechnungController.cs",
+              "RelativeDocumentMoniker": "Buch\\Controllers\\RechnungController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Controllers\\RechnungController.cs",
+              "RelativeToolTip": "Buch\\Controllers\\RechnungController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:56:55.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Kassenbuch\\Index.cshtml",
+              "RelativeDocumentMoniker": "Buch\\Views\\Kassenbuch\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Kassenbuch\\Index.cshtml",
+              "RelativeToolTip": "Buch\\Views\\Kassenbuch\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T08:28:53.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KassenbuchController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Controllers\\KassenbuchController.cs",
+              "RelativeDocumentMoniker": "Buch\\Controllers\\KassenbuchController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Controllers\\KassenbuchController.cs",
+              "RelativeToolTip": "Buch\\Controllers\\KassenbuchController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:19:04.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kategorie.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Models\\Kategorie.cs",
+              "RelativeDocumentMoniker": "Buch\\Models\\Kategorie.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Models\\Kategorie.cs",
+              "RelativeToolTip": "Buch\\Models\\Kategorie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:01:16.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Buch\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Buch\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T06:08:01.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Kassenbuch.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Models\\Kassenbuch.cs",
+              "RelativeDocumentMoniker": "Buch\\Models\\Kassenbuch.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Models\\Kassenbuch.cs",
+              "RelativeToolTip": "Buch\\Models\\Kassenbuch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:50:21.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rechnung.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Models\\Rechnung.cs",
+              "RelativeDocumentMoniker": "Buch\\Models\\Rechnung.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Models\\Rechnung.cs",
+              "RelativeToolTip": "Buch\\Models\\Rechnung.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:11:53.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Rechnung\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Buch\\Views\\Rechnung\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Rechnung\\Edit.cshtml",
+              "RelativeToolTip": "Buch\\Views\\Rechnung\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T09:28:09.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Rechnungen.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Kassenbuch\\Rechnungen.cshtml",
+              "RelativeDocumentMoniker": "Buch\\Views\\Kassenbuch\\Rechnungen.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Kassenbuch\\Rechnungen.cshtml",
+              "RelativeToolTip": "Buch\\Views\\Kassenbuch\\Rechnungen.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:15:21.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.Kassenbuch [Daten]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_Buch_8e1f0a69_69e6_4eb6_a82f_48b6eb14a23c/True/SqlTable/dbo.Kassenbuch.sql",
+              "ToolTip": "dbo.Kassenbuch [Daten]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-29T08:09:22.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Rechnung\\Details.cshtml",
+              "RelativeDocumentMoniker": "Buch\\Views\\Rechnung\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Rechnung\\Details.cshtml",
+              "RelativeToolTip": "Buch\\Views\\Rechnung\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:05:32.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Rechnung\\Create.cshtml",
+              "RelativeDocumentMoniker": "Buch\\Views\\Rechnung\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Rechnung\\Create.cshtml",
+              "RelativeToolTip": "Buch\\Views\\Rechnung\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvx8AAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T08:57:46.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Rechnung [Daten]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_Buch_8e1f0a69_69e6_4eb6_a82f_48b6eb14a23c/True/SqlTable/dbo.Rechnung.sql",
+              "ToolTip": "dbo.Rechnung [Daten]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-29T08:42:27.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Kassenbuch\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Buch\\Views\\Kassenbuch\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Kassenbuch\\Edit.cshtml",
+              "RelativeToolTip": "Buch\\Views\\Kassenbuch\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T08:36:08.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240529083713_string.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Data\\Migrations\\20240529083713_string.cs",
+              "RelativeDocumentMoniker": "Buch\\Data\\Migrations\\20240529083713_string.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Data\\Migrations\\20240529083713_string.cs",
+              "RelativeToolTip": "Buch\\Data\\Migrations\\20240529083713_string.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:37:13.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Kassenbuch\\Details.cshtml",
+              "RelativeDocumentMoniker": "Buch\\Views\\Kassenbuch\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Kassenbuch\\Details.cshtml",
+              "RelativeToolTip": "Buch\\Views\\Kassenbuch\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T08:35:54.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RechnungKategorie.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Models\\RechnungKategorie.cs",
+              "RelativeDocumentMoniker": "Buch\\Models\\RechnungKategorie.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Models\\RechnungKategorie.cs",
+              "RelativeToolTip": "Buch\\Models\\RechnungKategorie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:03:41.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240529081619_delete.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Data\\Migrations\\20240529081619_delete.cs",
+              "RelativeDocumentMoniker": "Buch\\Data\\Migrations\\20240529081619_delete.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Data\\Migrations\\20240529081619_delete.cs",
+              "RelativeToolTip": "Buch\\Data\\Migrations\\20240529081619_delete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:16:19.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240529061105_init.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Data\\Migrations\\20240529061105_init.cs",
+              "RelativeDocumentMoniker": "Buch\\Data\\Migrations\\20240529061105_init.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Data\\Migrations\\20240529061105_init.cs",
+              "RelativeToolTip": "Buch\\Data\\Migrations\\20240529061105_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T06:11:05.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Buch\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Buch\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T06:07:21.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Buch\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Buch\\Buch\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Buch\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T06:07:53.075Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
